@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nguyễn Quốc Tùng
+# 👋 Hi, I'm Trần Công Khoa
 
 > 💻 Software Developer · Passionate about building AI Chatbots & management systems  
 > 🚀 Always exploring new technologies & working on real-world projects  
