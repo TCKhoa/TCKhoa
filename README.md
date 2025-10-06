@@ -33,23 +33,24 @@
 ## 🛠️ Skills & Technologies
 
 ![Java](https://img.shields.io/badge/Code-Java-orange?logo=java)
-![PHP](https://img.shields.io/badge/Code-PHP-777BB4?logo=php)
+![Spring](https://img.shields.io/badge/Framework-Spring%20Boot-green?logo=spring)
+![MySQL](https://img.shields.io/badge/Database-MySQL-lightblue?logo=mysql)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?logo=javascript)
+![Firebase](https://img.shields.io/badge/Backend-Firebase-orange?logo=firebase)
 ![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3)
-![MySQL](https://img.shields.io/badge/Database-MySQL-lightblue?logo=mysql)
-![Firebase](https://img.shields.io/badge/Backend-Firebase-orange?logo=firebase)
-![Spring](https://img.shields.io/badge/Framework-Spring%20Boot-green?logo=spring)
+![PHP](https://img.shields.io/badge/Code-PHP-777BB4?logo=php)
 ![Bootstrap](https://img.shields.io/badge/UI-Bootstrap-purple?logo=bootstrap)
 
 ---
 
 ## 📫 Connect with me
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/khoatck)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khoa-tr%E1%BA%A7n-b98bb4298/)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/TCKhoa)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:your_email@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:trancongkhoa15@gmail.com)
+
 
 ---
 
